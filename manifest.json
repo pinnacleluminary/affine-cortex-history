@@ -1,0 +1,29 @@
+{
+  "updated_at": "2026-06-10T21:33:00.610972+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}

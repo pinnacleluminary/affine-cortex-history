@@ -1,0 +1,225 @@
+# Challenge — GET /api/v1/rank/current → window
+
+## Window summary by period
+Period from          Period to              champion_uid  champion_hotkey                                   champion_model                                                        champion_revision                           champion_since_block  battle_uid    battle_hotkey                                     battle_model                                                              battle_revision                           battle_started_at_block      task_refresh_block    past_champions_count
+-------------------  -------------------  --------------  ------------------------------------------------  --------------------------------------------------------------------  ----------------------------------------  ----------------------  ------------  ------------------------------------------------  ------------------------------------------------------------------------  ----------------------------------------  -------------------------  --------------------  ----------------------
+2026-05-19 00:00:00  2026-05-19 23:59:59             203  5DJ8rPSP2yc5N63q17WvQqj3uSuGQxnPA1DvCkG8rg2FAnua  Patriciand/affine-5DJ8rPSP2yc5N63q17WvQqj3uSuGQxnPA1DvCkG8rg2FAnua    cc2f17869a32088201741b04f916c426e1905b67                 8211654  76            5DG5PczV4L2t7dNDYgabvR9KbPgaT9PpCwT4KxenvPrap3kS  Crocodile0125/Affine-15-5DG5PczV4L2t7dNDYgabvR9KbPgaT9PpCwT4KxenvPrap3kS  4af4a7ecfda582e4adf2ae64ad466c0c774f3aaf  8216290                                 8214729                       5
+2026-05-19 00:00:00  2026-05-19 23:59:59             203  5DJ8rPSP2yc5N63q17WvQqj3uSuGQxnPA1DvCkG8rg2FAnua  Patriciand/affine-5DJ8rPSP2yc5N63q17WvQqj3uSuGQxnPA1DvCkG8rg2FAnua    cc2f17869a32088201741b04f916c426e1905b67                 8211654  —                                                                                                                                                                                   —                                       8214729                       5
+2026-05-19 00:00:00  2026-05-19 23:59:59             203  5DJ8rPSP2yc5N63q17WvQqj3uSuGQxnPA1DvCkG8rg2FAnua  Patriciand/affine-5DJ8rPSP2yc5N63q17WvQqj3uSuGQxnPA1DvCkG8rg2FAnua    cc2f17869a32088201741b04f916c426e1905b67                 8211654  159           5FjJmXWxqcRRzzwSBRq3qTnPdDfdpmwc3TJQA3RfYn9PBKKW  sniper999/affine-5FjJmXWxqcRRzzwSBRq3qTnPdDfdpmwc3TJQA3RfYn9PBKKW         d4450e5ad1702c00407267b26eb5201d1667bb5d  8218883                                 8214729                       5
+2026-05-19 00:00:00  2026-05-19 23:59:59             224  5CiX848ZkvJ5uboumKQneuVNKazgCesbu3JDPT3sShv7izBf  prexpert/affine-158-5CiX848ZkvJ5uboumKQneuVNKazgCesbu3JDPT3sShv7izBf  277d14acf41fea9e9b819ad5e4b3a28af2a94d2c                 8219933  189           5FJ5wCPF73SfnNczinCrqy9sYPJzMXC2uJLzMvpG9sePEHoT  prexpert/affine-162-5FJ5wCPF73SfnNczinCrqy9sYPJzMXC2uJLzMvpG9sePEHoT      ac34e92d2a22cc3f0fdb02fc5f00ef94cc492c61  8221217                                 8214729                       5
+2026-05-20 00:00:00  2026-05-20 23:59:59             224  5CiX848ZkvJ5uboumKQneuVNKazgCesbu3JDPT3sShv7izBf  prexpert/affine-158-5CiX848ZkvJ5uboumKQneuVNKazgCesbu3JDPT3sShv7izBf  277d14acf41fea9e9b819ad5e4b3a28af2a94d2c                 8219933  46            5E1jDtgshX18AVAG44mGCHZ7kGpT5sPC4fYcxNCB566h1QXU  huggingface-k/Affine-3-5E1jDtgshX18AVAG44mGCHZ7kGpT5sPC4fYcxNCB566h1QXU   db2f8fe889422087466cf06d576fdc8909daa3e0  8222815                                 8222055                       5
+2026-05-20 07:42:10  2026-05-20 07:42:10             224  5CiX848ZkvJ5uboumKQneuVNKazgCesbu3JDPT3sShv7izBf  prexpert/affine-158-5CiX848ZkvJ5uboumKQneuVNKazgCesbu3JDPT3sShv7izBf  277d14acf41fea9e9b819ad5e4b3a28af2a94d2c                 8219933  75            5FQticjZaQxvRCNQ55CcFKS6g8br37JoYMNDfUJbrFRZHey3  Patriciand/affine-5FQticjZaQxvRCNQ55CcFKS6g8br37JoYMNDfUJbrFRZHey3        d9f081362d82832c125691e8d4e53ca8dccf901e  8223630                                 8222055                       5
+2026-05-20 08:14:13  2026-05-20 08:14:44             224  5CiX848ZkvJ5uboumKQneuVNKazgCesbu3JDPT3sShv7izBf  prexpert/affine-158-5CiX848ZkvJ5uboumKQneuVNKazgCesbu3JDPT3sShv7izBf  277d14acf41fea9e9b819ad5e4b3a28af2a94d2c                 8219933  196           5CBAC65gUk9Xjax5KEAyeuakf4YQ6xnrV1396nCHarFu5rSf  prexpert/affine-165-5CBAC65gUk9Xjax5KEAyeuakf4YQ6xnrV1396nCHarFu5rSf      6b42867aeae8a3a20901c991f57a8aa8476a1e45  8223774                                 8222055                       5
+2026-05-20 10:15:25  2026-05-20 10:15:25             224  5CiX848ZkvJ5uboumKQneuVNKazgCesbu3JDPT3sShv7izBf  prexpert/affine-158-5CiX848ZkvJ5uboumKQneuVNKazgCesbu3JDPT3sShv7izBf  277d14acf41fea9e9b819ad5e4b3a28af2a94d2c                 8219933  —                                                                                                                                                                                   —                                       8222055                       5
+2026-05-21 09:29:46  2026-05-21 09:29:46             157  5EjnxQspZBo31bawE78VvKMwbDXA4ShxNLAKMMQgVcrQXfs8  0xbidkslj2/Affine-5EjnxQspZBo31bawE78VvKMwbDXA4ShxNLAKMMQgVcrQXfs8    62fdfcea860833d8707f206625ffbaec54c4d9ca                 8230432  214           5GWTzEmKprng2n4CzwumRi24Z7KPoVxWf7nMTY7T9BKsf6Nr  lenitokore/affine-5GWTzEmKprng2n4CzwumRi24Z7KPoVxWf7nMTY7T9BKsf6Nr        9fc4cf3b901b84476f3030fb90196525ba6ce649  8231408                                 8229392                       5
+2026-05-21 15:33:40  2026-05-21 15:49:07             157  5EjnxQspZBo31bawE78VvKMwbDXA4ShxNLAKMMQgVcrQXfs8  0xbidkslj2/Affine-5EjnxQspZBo31bawE78VvKMwbDXA4ShxNLAKMMQgVcrQXfs8    62fdfcea860833d8707f206625ffbaec54c4d9ca                 8230432  —                                                                                                                                                                                   —                                       8233072                       5
+2026-05-21 17:54:44  2026-05-21 17:54:44             157  5EjnxQspZBo31bawE78VvKMwbDXA4ShxNLAKMMQgVcrQXfs8  0xbidkslj2/Affine-5EjnxQspZBo31bawE78VvKMwbDXA4ShxNLAKMMQgVcrQXfs8    62fdfcea860833d8707f206625ffbaec54c4d9ca                 8230432  239           5Cvk5fgzeDcPw1P2MwAGTexWDe9NT7eppy8tVtY6pEvueR1S  tenny-fri/affine-5Cvk5fgzeDcPw1P2MwAGTexWDe9NT7eppy8tVtY6pEvueR1S         f5d91e9604e69e8c687f21718835a45fc4cf3284  8233827                                 8233072                       5
+2026-05-22 05:42:51  2026-05-22 05:42:51             244  5HWE4fhtxjiN7dMZgXE2AAT3sZEaPgAuMZpbhAVdidDz92NM  AF-Champ/Affine-5HWE4fhtxjiN7dMZgXE2AAT3sZEaPgAuMZpbhAVdidDz92NM      d82ab471d068c879d6b598f29017247f85139148                 8237016  9             5GgkXh4a8YhNgezHLovGenJdkbZ26rc76rdMzqL2AhHSmv5E  seed429/Affine-23-5GgkXh4a8YhNgezHLovGenJdkbZ26rc76rdMzqL2AhHSmv5E        13d0b07fe3be98c19739f17c3004b0f1ea8cb96b  8237279                                 8233072                       5
+2026-05-25 14:32:19  2026-05-25 14:32:19              78  5E1s3meptPTUjU8o1KgrkznPSafLqfUPL5LAf9sQhof3xNQh  tenny-fri/affine-5E1s3meptPTUjU8o1KgrkznPSafLqfUPL5LAf9sQhof3xNQh     395a48f18f3320da24182cbddd5f6e6101716ebf                 8241561  40            5FkHRLcJEF2k5QMSEMABZ5adEJXJwFsHDr89M7xwoYNkG2mj  prexpert/affine-175-5FkHRLcJEF2k5QMSEMABZ5adEJXJwFsHDr89M7xwoYNkG2mj      968949edde2feb7bda5f4aa24ed68fced83bd71b  8261434                                 8257502                       5
+2026-05-25 15:13:09  2026-05-25 15:13:09              78  5E1s3meptPTUjU8o1KgrkznPSafLqfUPL5LAf9sQhof3xNQh  tenny-fri/affine-5E1s3meptPTUjU8o1KgrkznPSafLqfUPL5LAf9sQhof3xNQh     395a48f18f3320da24182cbddd5f6e6101716ebf                 8241561  215           5CaA12dMfKrnSGKYhwFZBkD3tdJt5mt6CC3Z9DsR7c8YPgxo  Doomate/affine-5CaA12dMfKrnSGKYhwFZBkD3tdJt5mt6CC3Z9DsR7c8YPgxo           57093aa2f78b4efa8e3c366bba15f7bc5a2668e3  8261839                                 8257502                       5
+2026-05-26 02:21:37  2026-05-26 02:23:35              78  5E1s3meptPTUjU8o1KgrkznPSafLqfUPL5LAf9sQhof3xNQh  tenny-fri/affine-5E1s3meptPTUjU8o1KgrkznPSafLqfUPL5LAf9sQhof3xNQh     395a48f18f3320da24182cbddd5f6e6101716ebf                 8241561  241           5HmQhff7TCqTufP5gPHRtqkEeWA3iZZA7hYBbjwirazchkiA  void-818/Affine-95-5HmQhff7TCqTufP5gPHRtqkEeWA3iZZA7hYBbjwirazchkiA       ab146635cfcf4ef34d89f5fca57238cf9b738352  8265211                                 8262258                       5
+
+## Reward split — 2026-05-19 00:00:00 → 2026-05-19 23:59:59
+  uid  hotkey                                            model                                                                  revision                                    share
+-----  ------------------------------------------------  ---------------------------------------------------------------------  ----------------------------------------  -------
+  203  5DJ8rPSP2yc5N63q17WvQqj3uSuGQxnPA1DvCkG8rg2FAnua  Patriciand/affine-5DJ8rPSP2yc5N63q17WvQqj3uSuGQxnPA1DvCkG8rg2FAnua     cc2f17869a32088201741b04f916c426e1905b67      0.2
+  101  5G9Lez1oR61MSLGzQzVYmJN8n8dp2GSmPPmR1XB3ukQNXuA9  vkvk-0319/Affine-5G9Lez1oR61MSLGzQzVYmJN8n8dp2GSmPPmR1XB3ukQNXuA9      27c17487e773ae80b1b458ebe75e04316ef35068      0.2
+  175  5EcVrCC1oFQPLeKoxTFpoPbBLQaNfooVRHSWZpPvrJBA6RxL  void-818/Affine-ccc0-5EcVrCC1oFQPLeKoxTFpoPbBLQaNfooVRHSWZpPvrJBA6RxL  f55ad9dba43b98d3884cdec42d52878227bbb02b      0.2
+   87  5FX8no6hye3MQi8bQwbohGsb4NqfFNSk8CqQzAYv51ihCSKq  santijjjj413/Affine-5FX8no6hye3MQi8bQwbohGsb4NqfFNSk8CqQzAYv51ihCSKq   8bf1f3349b92247e92d8a5172efb5f2a91c22208      0.2
+   48  5E7eCacdMZZG7n5RwRAAQQmYfxxEkktfkXgZ5DpG7TY81W33  prexpert/affine-144-5E7eCacdMZZG7n5RwRAAQQmYfxxEkktfkXgZ5DpG7TY81W33   8ffc06553e8bdc02b6ba3fb18226d90a9b9c13cc      0.2
+
+## Active battle — 2026-05-19 00:00:00 → 2026-05-19 23:59:59
+  uid  hotkey                                            model                                                                     revision                                  since_block      started_at_block
+-----  ------------------------------------------------  ------------------------------------------------------------------------  ----------------------------------------  -------------  ------------------
+   76  5DG5PczV4L2t7dNDYgabvR9KbPgaT9PpCwT4KxenvPrap3kS  Crocodile0125/Affine-15-5DG5PczV4L2t7dNDYgabvR9KbPgaT9PpCwT4KxenvPrap3kS  4af4a7ecfda582e4adf2ae64ad466c0c774f3aaf                            8216290
+
+## Reward split — 2026-05-19 00:00:00 → 2026-05-19 23:59:59
+  uid  hotkey                                            model                                                                  revision                                    share
+-----  ------------------------------------------------  ---------------------------------------------------------------------  ----------------------------------------  -------
+  203  5DJ8rPSP2yc5N63q17WvQqj3uSuGQxnPA1DvCkG8rg2FAnua  Patriciand/affine-5DJ8rPSP2yc5N63q17WvQqj3uSuGQxnPA1DvCkG8rg2FAnua     cc2f17869a32088201741b04f916c426e1905b67      0.2
+  101  5G9Lez1oR61MSLGzQzVYmJN8n8dp2GSmPPmR1XB3ukQNXuA9  vkvk-0319/Affine-5G9Lez1oR61MSLGzQzVYmJN8n8dp2GSmPPmR1XB3ukQNXuA9      27c17487e773ae80b1b458ebe75e04316ef35068      0.2
+  175  5EcVrCC1oFQPLeKoxTFpoPbBLQaNfooVRHSWZpPvrJBA6RxL  void-818/Affine-ccc0-5EcVrCC1oFQPLeKoxTFpoPbBLQaNfooVRHSWZpPvrJBA6RxL  f55ad9dba43b98d3884cdec42d52878227bbb02b      0.2
+   87  5FX8no6hye3MQi8bQwbohGsb4NqfFNSk8CqQzAYv51ihCSKq  santijjjj413/Affine-5FX8no6hye3MQi8bQwbohGsb4NqfFNSk8CqQzAYv51ihCSKq   8bf1f3349b92247e92d8a5172efb5f2a91c22208      0.2
+   48  5E7eCacdMZZG7n5RwRAAQQmYfxxEkktfkXgZ5DpG7TY81W33  prexpert/affine-144-5E7eCacdMZZG7n5RwRAAQQmYfxxEkktfkXgZ5DpG7TY81W33   8ffc06553e8bdc02b6ba3fb18226d90a9b9c13cc      0.2
+
+## Active battle — 2026-05-19 00:00:00 → 2026-05-19 23:59:59
+(no challenger in progress)
+
+## Reward split — 2026-05-19 00:00:00 → 2026-05-19 23:59:59
+  uid  hotkey                                            model                                                                  revision                                    share
+-----  ------------------------------------------------  ---------------------------------------------------------------------  ----------------------------------------  -------
+  203  5DJ8rPSP2yc5N63q17WvQqj3uSuGQxnPA1DvCkG8rg2FAnua  Patriciand/affine-5DJ8rPSP2yc5N63q17WvQqj3uSuGQxnPA1DvCkG8rg2FAnua     cc2f17869a32088201741b04f916c426e1905b67      0.2
+  101  5G9Lez1oR61MSLGzQzVYmJN8n8dp2GSmPPmR1XB3ukQNXuA9  vkvk-0319/Affine-5G9Lez1oR61MSLGzQzVYmJN8n8dp2GSmPPmR1XB3ukQNXuA9      27c17487e773ae80b1b458ebe75e04316ef35068      0.2
+  175  5EcVrCC1oFQPLeKoxTFpoPbBLQaNfooVRHSWZpPvrJBA6RxL  void-818/Affine-ccc0-5EcVrCC1oFQPLeKoxTFpoPbBLQaNfooVRHSWZpPvrJBA6RxL  f55ad9dba43b98d3884cdec42d52878227bbb02b      0.2
+   87  5FX8no6hye3MQi8bQwbohGsb4NqfFNSk8CqQzAYv51ihCSKq  santijjjj413/Affine-5FX8no6hye3MQi8bQwbohGsb4NqfFNSk8CqQzAYv51ihCSKq   8bf1f3349b92247e92d8a5172efb5f2a91c22208      0.2
+   48  5E7eCacdMZZG7n5RwRAAQQmYfxxEkktfkXgZ5DpG7TY81W33  prexpert/affine-144-5E7eCacdMZZG7n5RwRAAQQmYfxxEkktfkXgZ5DpG7TY81W33   8ffc06553e8bdc02b6ba3fb18226d90a9b9c13cc      0.2
+
+## Active battle — 2026-05-19 00:00:00 → 2026-05-19 23:59:59
+  uid  hotkey                                            model                                                              revision                                  since_block      started_at_block
+-----  ------------------------------------------------  -----------------------------------------------------------------  ----------------------------------------  -------------  ------------------
+  159  5FjJmXWxqcRRzzwSBRq3qTnPdDfdpmwc3TJQA3RfYn9PBKKW  sniper999/affine-5FjJmXWxqcRRzzwSBRq3qTnPdDfdpmwc3TJQA3RfYn9PBKKW  d4450e5ad1702c00407267b26eb5201d1667bb5d                            8218883
+
+## Reward split — 2026-05-19 00:00:00 → 2026-05-19 23:59:59
+  uid  hotkey                                            model                                                                  revision                                    share
+-----  ------------------------------------------------  ---------------------------------------------------------------------  ----------------------------------------  -------
+  224  5CiX848ZkvJ5uboumKQneuVNKazgCesbu3JDPT3sShv7izBf  prexpert/affine-158-5CiX848ZkvJ5uboumKQneuVNKazgCesbu3JDPT3sShv7izBf   277d14acf41fea9e9b819ad5e4b3a28af2a94d2c      0.2
+  101  5G9Lez1oR61MSLGzQzVYmJN8n8dp2GSmPPmR1XB3ukQNXuA9  vkvk-0319/Affine-5G9Lez1oR61MSLGzQzVYmJN8n8dp2GSmPPmR1XB3ukQNXuA9      27c17487e773ae80b1b458ebe75e04316ef35068      0.2
+  203  5DJ8rPSP2yc5N63q17WvQqj3uSuGQxnPA1DvCkG8rg2FAnua  Patriciand/affine-5DJ8rPSP2yc5N63q17WvQqj3uSuGQxnPA1DvCkG8rg2FAnua     cc2f17869a32088201741b04f916c426e1905b67      0.2
+  175  5EcVrCC1oFQPLeKoxTFpoPbBLQaNfooVRHSWZpPvrJBA6RxL  void-818/Affine-ccc0-5EcVrCC1oFQPLeKoxTFpoPbBLQaNfooVRHSWZpPvrJBA6RxL  f55ad9dba43b98d3884cdec42d52878227bbb02b      0.2
+   87  5FX8no6hye3MQi8bQwbohGsb4NqfFNSk8CqQzAYv51ihCSKq  santijjjj413/Affine-5FX8no6hye3MQi8bQwbohGsb4NqfFNSk8CqQzAYv51ihCSKq   8bf1f3349b92247e92d8a5172efb5f2a91c22208      0.2
+
+## Active battle — 2026-05-19 00:00:00 → 2026-05-19 23:59:59
+  uid  hotkey                                            model                                                                 revision                                  since_block      started_at_block
+-----  ------------------------------------------------  --------------------------------------------------------------------  ----------------------------------------  -------------  ------------------
+  189  5FJ5wCPF73SfnNczinCrqy9sYPJzMXC2uJLzMvpG9sePEHoT  prexpert/affine-162-5FJ5wCPF73SfnNczinCrqy9sYPJzMXC2uJLzMvpG9sePEHoT  ac34e92d2a22cc3f0fdb02fc5f00ef94cc492c61                            8221217
+
+## Reward split — 2026-05-20 00:00:00 → 2026-05-20 23:59:59
+  uid  hotkey                                            model                                                                  revision                                    share
+-----  ------------------------------------------------  ---------------------------------------------------------------------  ----------------------------------------  -------
+  224  5CiX848ZkvJ5uboumKQneuVNKazgCesbu3JDPT3sShv7izBf  prexpert/affine-158-5CiX848ZkvJ5uboumKQneuVNKazgCesbu3JDPT3sShv7izBf   277d14acf41fea9e9b819ad5e4b3a28af2a94d2c      0.2
+  101  5G9Lez1oR61MSLGzQzVYmJN8n8dp2GSmPPmR1XB3ukQNXuA9  vkvk-0319/Affine-5G9Lez1oR61MSLGzQzVYmJN8n8dp2GSmPPmR1XB3ukQNXuA9      27c17487e773ae80b1b458ebe75e04316ef35068      0.2
+  203  5DJ8rPSP2yc5N63q17WvQqj3uSuGQxnPA1DvCkG8rg2FAnua  Patriciand/affine-5DJ8rPSP2yc5N63q17WvQqj3uSuGQxnPA1DvCkG8rg2FAnua     cc2f17869a32088201741b04f916c426e1905b67      0.2
+  175  5EcVrCC1oFQPLeKoxTFpoPbBLQaNfooVRHSWZpPvrJBA6RxL  void-818/Affine-ccc0-5EcVrCC1oFQPLeKoxTFpoPbBLQaNfooVRHSWZpPvrJBA6RxL  f55ad9dba43b98d3884cdec42d52878227bbb02b      0.2
+   87  5FX8no6hye3MQi8bQwbohGsb4NqfFNSk8CqQzAYv51ihCSKq  santijjjj413/Affine-5FX8no6hye3MQi8bQwbohGsb4NqfFNSk8CqQzAYv51ihCSKq   8bf1f3349b92247e92d8a5172efb5f2a91c22208      0.2
+
+## Active battle — 2026-05-20 00:00:00 → 2026-05-20 23:59:59
+  uid  hotkey                                            model                                                                    revision                                  since_block      started_at_block
+-----  ------------------------------------------------  -----------------------------------------------------------------------  ----------------------------------------  -------------  ------------------
+   46  5E1jDtgshX18AVAG44mGCHZ7kGpT5sPC4fYcxNCB566h1QXU  huggingface-k/Affine-3-5E1jDtgshX18AVAG44mGCHZ7kGpT5sPC4fYcxNCB566h1QXU  db2f8fe889422087466cf06d576fdc8909daa3e0                            8222815
+
+## Reward split — 2026-05-20 07:42:10
+  uid  hotkey                                            model                                                                  revision                                    share
+-----  ------------------------------------------------  ---------------------------------------------------------------------  ----------------------------------------  -------
+  224  5CiX848ZkvJ5uboumKQneuVNKazgCesbu3JDPT3sShv7izBf  prexpert/affine-158-5CiX848ZkvJ5uboumKQneuVNKazgCesbu3JDPT3sShv7izBf   277d14acf41fea9e9b819ad5e4b3a28af2a94d2c      0.2
+  101  5G9Lez1oR61MSLGzQzVYmJN8n8dp2GSmPPmR1XB3ukQNXuA9  vkvk-0319/Affine-5G9Lez1oR61MSLGzQzVYmJN8n8dp2GSmPPmR1XB3ukQNXuA9      27c17487e773ae80b1b458ebe75e04316ef35068      0.2
+  203  5DJ8rPSP2yc5N63q17WvQqj3uSuGQxnPA1DvCkG8rg2FAnua  Patriciand/affine-5DJ8rPSP2yc5N63q17WvQqj3uSuGQxnPA1DvCkG8rg2FAnua     cc2f17869a32088201741b04f916c426e1905b67      0.2
+  175  5EcVrCC1oFQPLeKoxTFpoPbBLQaNfooVRHSWZpPvrJBA6RxL  void-818/Affine-ccc0-5EcVrCC1oFQPLeKoxTFpoPbBLQaNfooVRHSWZpPvrJBA6RxL  f55ad9dba43b98d3884cdec42d52878227bbb02b      0.2
+   87  5FX8no6hye3MQi8bQwbohGsb4NqfFNSk8CqQzAYv51ihCSKq  santijjjj413/Affine-5FX8no6hye3MQi8bQwbohGsb4NqfFNSk8CqQzAYv51ihCSKq   8bf1f3349b92247e92d8a5172efb5f2a91c22208      0.2
+
+## Active battle — 2026-05-20 07:42:10
+  uid  hotkey                                            model                                                               revision                                  since_block      started_at_block
+-----  ------------------------------------------------  ------------------------------------------------------------------  ----------------------------------------  -------------  ------------------
+   75  5FQticjZaQxvRCNQ55CcFKS6g8br37JoYMNDfUJbrFRZHey3  Patriciand/affine-5FQticjZaQxvRCNQ55CcFKS6g8br37JoYMNDfUJbrFRZHey3  d9f081362d82832c125691e8d4e53ca8dccf901e                            8223630
+
+## Reward split — 2026-05-20 08:14:13 → 2026-05-20 08:14:44
+  uid  hotkey                                            model                                                                  revision                                    share
+-----  ------------------------------------------------  ---------------------------------------------------------------------  ----------------------------------------  -------
+  224  5CiX848ZkvJ5uboumKQneuVNKazgCesbu3JDPT3sShv7izBf  prexpert/affine-158-5CiX848ZkvJ5uboumKQneuVNKazgCesbu3JDPT3sShv7izBf   277d14acf41fea9e9b819ad5e4b3a28af2a94d2c      0.2
+  101  5G9Lez1oR61MSLGzQzVYmJN8n8dp2GSmPPmR1XB3ukQNXuA9  vkvk-0319/Affine-5G9Lez1oR61MSLGzQzVYmJN8n8dp2GSmPPmR1XB3ukQNXuA9      27c17487e773ae80b1b458ebe75e04316ef35068      0.2
+  203  5DJ8rPSP2yc5N63q17WvQqj3uSuGQxnPA1DvCkG8rg2FAnua  Patriciand/affine-5DJ8rPSP2yc5N63q17WvQqj3uSuGQxnPA1DvCkG8rg2FAnua     cc2f17869a32088201741b04f916c426e1905b67      0.2
+  175  5EcVrCC1oFQPLeKoxTFpoPbBLQaNfooVRHSWZpPvrJBA6RxL  void-818/Affine-ccc0-5EcVrCC1oFQPLeKoxTFpoPbBLQaNfooVRHSWZpPvrJBA6RxL  f55ad9dba43b98d3884cdec42d52878227bbb02b      0.2
+   87  5FX8no6hye3MQi8bQwbohGsb4NqfFNSk8CqQzAYv51ihCSKq  santijjjj413/Affine-5FX8no6hye3MQi8bQwbohGsb4NqfFNSk8CqQzAYv51ihCSKq   8bf1f3349b92247e92d8a5172efb5f2a91c22208      0.2
+
+## Active battle — 2026-05-20 08:14:13 → 2026-05-20 08:14:44
+  uid  hotkey                                            model                                                                 revision                                  since_block      started_at_block
+-----  ------------------------------------------------  --------------------------------------------------------------------  ----------------------------------------  -------------  ------------------
+  196  5CBAC65gUk9Xjax5KEAyeuakf4YQ6xnrV1396nCHarFu5rSf  prexpert/affine-165-5CBAC65gUk9Xjax5KEAyeuakf4YQ6xnrV1396nCHarFu5rSf  6b42867aeae8a3a20901c991f57a8aa8476a1e45                            8223774
+
+## Reward split — 2026-05-20 10:15:25
+  uid  hotkey                                            model                                                                  revision                                    share
+-----  ------------------------------------------------  ---------------------------------------------------------------------  ----------------------------------------  -------
+  224  5CiX848ZkvJ5uboumKQneuVNKazgCesbu3JDPT3sShv7izBf  prexpert/affine-158-5CiX848ZkvJ5uboumKQneuVNKazgCesbu3JDPT3sShv7izBf   277d14acf41fea9e9b819ad5e4b3a28af2a94d2c      0.2
+  101  5G9Lez1oR61MSLGzQzVYmJN8n8dp2GSmPPmR1XB3ukQNXuA9  vkvk-0319/Affine-5G9Lez1oR61MSLGzQzVYmJN8n8dp2GSmPPmR1XB3ukQNXuA9      27c17487e773ae80b1b458ebe75e04316ef35068      0.2
+  203  5DJ8rPSP2yc5N63q17WvQqj3uSuGQxnPA1DvCkG8rg2FAnua  Patriciand/affine-5DJ8rPSP2yc5N63q17WvQqj3uSuGQxnPA1DvCkG8rg2FAnua     cc2f17869a32088201741b04f916c426e1905b67      0.2
+  175  5EcVrCC1oFQPLeKoxTFpoPbBLQaNfooVRHSWZpPvrJBA6RxL  void-818/Affine-ccc0-5EcVrCC1oFQPLeKoxTFpoPbBLQaNfooVRHSWZpPvrJBA6RxL  f55ad9dba43b98d3884cdec42d52878227bbb02b      0.2
+   87  5FX8no6hye3MQi8bQwbohGsb4NqfFNSk8CqQzAYv51ihCSKq  santijjjj413/Affine-5FX8no6hye3MQi8bQwbohGsb4NqfFNSk8CqQzAYv51ihCSKq   8bf1f3349b92247e92d8a5172efb5f2a91c22208      0.2
+
+## Active battle — 2026-05-20 10:15:25
+(no challenger in progress)
+
+## Reward split — 2026-05-21 09:29:46
+  uid  hotkey                                            model                                                                 revision                                    share
+-----  ------------------------------------------------  --------------------------------------------------------------------  ----------------------------------------  -------
+  157  5EjnxQspZBo31bawE78VvKMwbDXA4ShxNLAKMMQgVcrQXfs8  0xbidkslj2/Affine-5EjnxQspZBo31bawE78VvKMwbDXA4ShxNLAKMMQgVcrQXfs8    62fdfcea860833d8707f206625ffbaec54c4d9ca      0.2
+  142  5EbZzs3z1VAg6MzeaMjvJu5xn3bXArWVZAstnzNX5rBd15AE  0xbidkslj2/Affine-5EbZzs3z1VAg6MzeaMjvJu5xn3bXArWVZAstnzNX5rBd15AE    23c1a8233e6c0341f45f25a20586178b647728c2      0.2
+  224  5CiX848ZkvJ5uboumKQneuVNKazgCesbu3JDPT3sShv7izBf  prexpert/affine-158-5CiX848ZkvJ5uboumKQneuVNKazgCesbu3JDPT3sShv7izBf  277d14acf41fea9e9b819ad5e4b3a28af2a94d2c      0.2
+  101  5G9Lez1oR61MSLGzQzVYmJN8n8dp2GSmPPmR1XB3ukQNXuA9  vkvk-0319/Affine-5G9Lez1oR61MSLGzQzVYmJN8n8dp2GSmPPmR1XB3ukQNXuA9     27c17487e773ae80b1b458ebe75e04316ef35068      0.2
+  203  5DJ8rPSP2yc5N63q17WvQqj3uSuGQxnPA1DvCkG8rg2FAnua  Patriciand/affine-5DJ8rPSP2yc5N63q17WvQqj3uSuGQxnPA1DvCkG8rg2FAnua    cc2f17869a32088201741b04f916c426e1905b67      0.2
+
+## Active battle — 2026-05-21 09:29:46
+  uid  hotkey                                            model                                                               revision                                  since_block      started_at_block
+-----  ------------------------------------------------  ------------------------------------------------------------------  ----------------------------------------  -------------  ------------------
+  214  5GWTzEmKprng2n4CzwumRi24Z7KPoVxWf7nMTY7T9BKsf6Nr  lenitokore/affine-5GWTzEmKprng2n4CzwumRi24Z7KPoVxWf7nMTY7T9BKsf6Nr  9fc4cf3b901b84476f3030fb90196525ba6ce649                            8231408
+
+## Reward split — 2026-05-21 15:33:40 → 2026-05-21 15:49:07
+  uid  hotkey                                            model                                                                 revision                                    share
+-----  ------------------------------------------------  --------------------------------------------------------------------  ----------------------------------------  -------
+  157  5EjnxQspZBo31bawE78VvKMwbDXA4ShxNLAKMMQgVcrQXfs8  0xbidkslj2/Affine-5EjnxQspZBo31bawE78VvKMwbDXA4ShxNLAKMMQgVcrQXfs8    62fdfcea860833d8707f206625ffbaec54c4d9ca      0.2
+  142  5EbZzs3z1VAg6MzeaMjvJu5xn3bXArWVZAstnzNX5rBd15AE  0xbidkslj2/Affine-5EbZzs3z1VAg6MzeaMjvJu5xn3bXArWVZAstnzNX5rBd15AE    23c1a8233e6c0341f45f25a20586178b647728c2      0.2
+  224  5CiX848ZkvJ5uboumKQneuVNKazgCesbu3JDPT3sShv7izBf  prexpert/affine-158-5CiX848ZkvJ5uboumKQneuVNKazgCesbu3JDPT3sShv7izBf  277d14acf41fea9e9b819ad5e4b3a28af2a94d2c      0.2
+  101  5G9Lez1oR61MSLGzQzVYmJN8n8dp2GSmPPmR1XB3ukQNXuA9  vkvk-0319/Affine-5G9Lez1oR61MSLGzQzVYmJN8n8dp2GSmPPmR1XB3ukQNXuA9     27c17487e773ae80b1b458ebe75e04316ef35068      0.2
+  203  5DJ8rPSP2yc5N63q17WvQqj3uSuGQxnPA1DvCkG8rg2FAnua  Patriciand/affine-5DJ8rPSP2yc5N63q17WvQqj3uSuGQxnPA1DvCkG8rg2FAnua    cc2f17869a32088201741b04f916c426e1905b67      0.2
+
+## Active battle — 2026-05-21 15:33:40 → 2026-05-21 15:49:07
+(no challenger in progress)
+
+## Reward split — 2026-05-21 17:54:44
+  uid  hotkey                                            model                                                                 revision                                    share
+-----  ------------------------------------------------  --------------------------------------------------------------------  ----------------------------------------  -------
+  157  5EjnxQspZBo31bawE78VvKMwbDXA4ShxNLAKMMQgVcrQXfs8  0xbidkslj2/Affine-5EjnxQspZBo31bawE78VvKMwbDXA4ShxNLAKMMQgVcrQXfs8    62fdfcea860833d8707f206625ffbaec54c4d9ca      0.2
+  142  5EbZzs3z1VAg6MzeaMjvJu5xn3bXArWVZAstnzNX5rBd15AE  0xbidkslj2/Affine-5EbZzs3z1VAg6MzeaMjvJu5xn3bXArWVZAstnzNX5rBd15AE    23c1a8233e6c0341f45f25a20586178b647728c2      0.2
+  224  5CiX848ZkvJ5uboumKQneuVNKazgCesbu3JDPT3sShv7izBf  prexpert/affine-158-5CiX848ZkvJ5uboumKQneuVNKazgCesbu3JDPT3sShv7izBf  277d14acf41fea9e9b819ad5e4b3a28af2a94d2c      0.2
+  101  5G9Lez1oR61MSLGzQzVYmJN8n8dp2GSmPPmR1XB3ukQNXuA9  vkvk-0319/Affine-5G9Lez1oR61MSLGzQzVYmJN8n8dp2GSmPPmR1XB3ukQNXuA9     27c17487e773ae80b1b458ebe75e04316ef35068      0.2
+  203  5DJ8rPSP2yc5N63q17WvQqj3uSuGQxnPA1DvCkG8rg2FAnua  Patriciand/affine-5DJ8rPSP2yc5N63q17WvQqj3uSuGQxnPA1DvCkG8rg2FAnua    cc2f17869a32088201741b04f916c426e1905b67      0.2
+
+## Active battle — 2026-05-21 17:54:44
+  uid  hotkey                                            model                                                              revision                                  since_block      started_at_block
+-----  ------------------------------------------------  -----------------------------------------------------------------  ----------------------------------------  -------------  ------------------
+  239  5Cvk5fgzeDcPw1P2MwAGTexWDe9NT7eppy8tVtY6pEvueR1S  tenny-fri/affine-5Cvk5fgzeDcPw1P2MwAGTexWDe9NT7eppy8tVtY6pEvueR1S  f5d91e9604e69e8c687f21718835a45fc4cf3284                            8233827
+
+## Reward split — 2026-05-22 05:42:51
+  uid  hotkey                                            model                                                                 revision                                    share
+-----  ------------------------------------------------  --------------------------------------------------------------------  ----------------------------------------  -------
+  244  5HWE4fhtxjiN7dMZgXE2AAT3sZEaPgAuMZpbhAVdidDz92NM  AF-Champ/Affine-5HWE4fhtxjiN7dMZgXE2AAT3sZEaPgAuMZpbhAVdidDz92NM      d82ab471d068c879d6b598f29017247f85139148      0.2
+  157  5EjnxQspZBo31bawE78VvKMwbDXA4ShxNLAKMMQgVcrQXfs8  0xbidkslj2/Affine-5EjnxQspZBo31bawE78VvKMwbDXA4ShxNLAKMMQgVcrQXfs8    62fdfcea860833d8707f206625ffbaec54c4d9ca      0.2
+  142  5EbZzs3z1VAg6MzeaMjvJu5xn3bXArWVZAstnzNX5rBd15AE  0xbidkslj2/Affine-5EbZzs3z1VAg6MzeaMjvJu5xn3bXArWVZAstnzNX5rBd15AE    23c1a8233e6c0341f45f25a20586178b647728c2      0.2
+  224  5CiX848ZkvJ5uboumKQneuVNKazgCesbu3JDPT3sShv7izBf  prexpert/affine-158-5CiX848ZkvJ5uboumKQneuVNKazgCesbu3JDPT3sShv7izBf  277d14acf41fea9e9b819ad5e4b3a28af2a94d2c      0.2
+  101  5G9Lez1oR61MSLGzQzVYmJN8n8dp2GSmPPmR1XB3ukQNXuA9  vkvk-0319/Affine-5G9Lez1oR61MSLGzQzVYmJN8n8dp2GSmPPmR1XB3ukQNXuA9     27c17487e773ae80b1b458ebe75e04316ef35068      0.2
+
+## Active battle — 2026-05-22 05:42:51
+  uid  hotkey                                            model                                                               revision                                  since_block      started_at_block
+-----  ------------------------------------------------  ------------------------------------------------------------------  ----------------------------------------  -------------  ------------------
+    9  5GgkXh4a8YhNgezHLovGenJdkbZ26rc76rdMzqL2AhHSmv5E  seed429/Affine-23-5GgkXh4a8YhNgezHLovGenJdkbZ26rc76rdMzqL2AhHSmv5E  13d0b07fe3be98c19739f17c3004b0f1ea8cb96b                            8237279
+
+## Reward split — 2026-05-25 14:32:19
+  uid  hotkey                                            model                                                                 revision                                    share
+-----  ------------------------------------------------  --------------------------------------------------------------------  ----------------------------------------  -------
+   78  5E1s3meptPTUjU8o1KgrkznPSafLqfUPL5LAf9sQhof3xNQh  tenny-fri/affine-5E1s3meptPTUjU8o1KgrkznPSafLqfUPL5LAf9sQhof3xNQh     395a48f18f3320da24182cbddd5f6e6101716ebf      0.2
+  244  5HWE4fhtxjiN7dMZgXE2AAT3sZEaPgAuMZpbhAVdidDz92NM  AF-Champ/Affine-5HWE4fhtxjiN7dMZgXE2AAT3sZEaPgAuMZpbhAVdidDz92NM      d82ab471d068c879d6b598f29017247f85139148      0.2
+  157  5EjnxQspZBo31bawE78VvKMwbDXA4ShxNLAKMMQgVcrQXfs8  0xbidkslj2/Affine-5EjnxQspZBo31bawE78VvKMwbDXA4ShxNLAKMMQgVcrQXfs8    62fdfcea860833d8707f206625ffbaec54c4d9ca      0.2
+  142  5EbZzs3z1VAg6MzeaMjvJu5xn3bXArWVZAstnzNX5rBd15AE  0xbidkslj2/Affine-5EbZzs3z1VAg6MzeaMjvJu5xn3bXArWVZAstnzNX5rBd15AE    23c1a8233e6c0341f45f25a20586178b647728c2      0.2
+  224  5CiX848ZkvJ5uboumKQneuVNKazgCesbu3JDPT3sShv7izBf  prexpert/affine-158-5CiX848ZkvJ5uboumKQneuVNKazgCesbu3JDPT3sShv7izBf  277d14acf41fea9e9b819ad5e4b3a28af2a94d2c      0.2
+
+## Active battle — 2026-05-25 14:32:19
+  uid  hotkey                                            model                                                                 revision                                  since_block      started_at_block
+-----  ------------------------------------------------  --------------------------------------------------------------------  ----------------------------------------  -------------  ------------------
+   40  5FkHRLcJEF2k5QMSEMABZ5adEJXJwFsHDr89M7xwoYNkG2mj  prexpert/affine-175-5FkHRLcJEF2k5QMSEMABZ5adEJXJwFsHDr89M7xwoYNkG2mj  968949edde2feb7bda5f4aa24ed68fced83bd71b                            8261434
+
+## Reward split — 2026-05-25 15:13:09
+  uid  hotkey                                            model                                                                 revision                                    share
+-----  ------------------------------------------------  --------------------------------------------------------------------  ----------------------------------------  -------
+   78  5E1s3meptPTUjU8o1KgrkznPSafLqfUPL5LAf9sQhof3xNQh  tenny-fri/affine-5E1s3meptPTUjU8o1KgrkznPSafLqfUPL5LAf9sQhof3xNQh     395a48f18f3320da24182cbddd5f6e6101716ebf      0.2
+  244  5HWE4fhtxjiN7dMZgXE2AAT3sZEaPgAuMZpbhAVdidDz92NM  AF-Champ/Affine-5HWE4fhtxjiN7dMZgXE2AAT3sZEaPgAuMZpbhAVdidDz92NM      d82ab471d068c879d6b598f29017247f85139148      0.2
+  157  5EjnxQspZBo31bawE78VvKMwbDXA4ShxNLAKMMQgVcrQXfs8  0xbidkslj2/Affine-5EjnxQspZBo31bawE78VvKMwbDXA4ShxNLAKMMQgVcrQXfs8    62fdfcea860833d8707f206625ffbaec54c4d9ca      0.2
+  142  5EbZzs3z1VAg6MzeaMjvJu5xn3bXArWVZAstnzNX5rBd15AE  0xbidkslj2/Affine-5EbZzs3z1VAg6MzeaMjvJu5xn3bXArWVZAstnzNX5rBd15AE    23c1a8233e6c0341f45f25a20586178b647728c2      0.2
+  224  5CiX848ZkvJ5uboumKQneuVNKazgCesbu3JDPT3sShv7izBf  prexpert/affine-158-5CiX848ZkvJ5uboumKQneuVNKazgCesbu3JDPT3sShv7izBf  277d14acf41fea9e9b819ad5e4b3a28af2a94d2c      0.2
+
+## Active battle — 2026-05-25 15:13:09
+  uid  hotkey                                            model                                                            revision                                  since_block      started_at_block
+-----  ------------------------------------------------  ---------------------------------------------------------------  ----------------------------------------  -------------  ------------------
+  215  5CaA12dMfKrnSGKYhwFZBkD3tdJt5mt6CC3Z9DsR7c8YPgxo  Doomate/affine-5CaA12dMfKrnSGKYhwFZBkD3tdJt5mt6CC3Z9DsR7c8YPgxo  57093aa2f78b4efa8e3c366bba15f7bc5a2668e3                            8261839
+
+## Reward split — 2026-05-26 02:21:37 → 2026-05-26 02:23:35
+  uid  hotkey                                            model                                                                 revision                                    share
+-----  ------------------------------------------------  --------------------------------------------------------------------  ----------------------------------------  -------
+   78  5E1s3meptPTUjU8o1KgrkznPSafLqfUPL5LAf9sQhof3xNQh  tenny-fri/affine-5E1s3meptPTUjU8o1KgrkznPSafLqfUPL5LAf9sQhof3xNQh     395a48f18f3320da24182cbddd5f6e6101716ebf      0.2
+  244  5HWE4fhtxjiN7dMZgXE2AAT3sZEaPgAuMZpbhAVdidDz92NM  AF-Champ/Affine-5HWE4fhtxjiN7dMZgXE2AAT3sZEaPgAuMZpbhAVdidDz92NM      d82ab471d068c879d6b598f29017247f85139148      0.2
+  157  5EjnxQspZBo31bawE78VvKMwbDXA4ShxNLAKMMQgVcrQXfs8  0xbidkslj2/Affine-5EjnxQspZBo31bawE78VvKMwbDXA4ShxNLAKMMQgVcrQXfs8    62fdfcea860833d8707f206625ffbaec54c4d9ca      0.2
+  142  5EbZzs3z1VAg6MzeaMjvJu5xn3bXArWVZAstnzNX5rBd15AE  0xbidkslj2/Affine-5EbZzs3z1VAg6MzeaMjvJu5xn3bXArWVZAstnzNX5rBd15AE    23c1a8233e6c0341f45f25a20586178b647728c2      0.2
+  224  5CiX848ZkvJ5uboumKQneuVNKazgCesbu3JDPT3sShv7izBf  prexpert/affine-158-5CiX848ZkvJ5uboumKQneuVNKazgCesbu3JDPT3sShv7izBf  277d14acf41fea9e9b819ad5e4b3a28af2a94d2c      0.2
+
+## Active battle — 2026-05-26 02:21:37 → 2026-05-26 02:23:35
+  uid  hotkey                                            model                                                                revision                                  since_block      started_at_block
+-----  ------------------------------------------------  -------------------------------------------------------------------  ----------------------------------------  -------------  ------------------
+  241  5HmQhff7TCqTufP5gPHRtqkEeWA3iZZA7hYBbjwirazchkiA  void-818/Affine-95-5HmQhff7TCqTufP5gPHRtqkEeWA3iZZA7hYBbjwirazchkiA  ab146635cfcf4ef34d89f5fca57238cf9b738352                            8265211
+

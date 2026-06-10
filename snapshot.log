@@ -1,0 +1,5977 @@
+→ capturing status queries
+→ rendering accumulated tables
+{
+  "updated_at": "2026-05-19T07:05:31.409748+00:00",
+  "top": 10,
+  "uid": 203,
+  "periods": {
+    "rank": 3,
+    "weights": 1,
+    "scores": 2,
+    "miner": 3,
+    "score": 1
+  },
+  "block_number": 8211654,
+  "weights_block_number": 8210000,
+  "scores_block_number": 8211654,
+  "files": [
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-scores.txt",
+    "get-miner.txt",
+    "get-score.txt"
+  ]
+}
+→ archived to history/archive/2026-05-19T07-05-31Z/
+Done. Accumulated history in /root/affine-cortex/history/
+→ snapshot daemon loop (interval=600s, log=/home/ubuntu/affine-cortex/history/snapshot.log)
+=== 2026-06-09T16:22:07Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-09T16:22:10.848177+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 161,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8366477,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-09T16-22-10Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-09T16:32:11Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-09T16:32:14.929086+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 161,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8366477,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-09T16-32-14Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-09T16:42:15Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-09T16:42:20.184619+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 161,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8366477,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-09T16-42-20Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-09T16:52:20Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-09T16:52:25.513802+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 161,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8366477,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-09T16-52-25Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-09T17:02:25Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-09T17:02:30.474689+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 161,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8366477,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-09T17-02-30Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-09T17:12:30Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-09T17:12:35.465153+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 161,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8366477,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-09T17-12-35Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-09T17:22:35Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-09T17:22:39.605616+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 161,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8366477,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-09T17-22-39Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-09T17:32:39Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-09T17:32:44.024175+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 161,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8366477,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-09T17-32-44Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-09T17:42:44Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-09T17:42:47.995049+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 161,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8366477,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-09T17-42-47Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-09T17:52:48Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-09T17:52:51.860372+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 161,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8366477,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-09T17-52-51Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-09T18:02:52Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-09T18:02:56.232815+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 161,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8366477,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-09T18-02-56Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-09T18:12:56Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-09T18:13:00.256343+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 161,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8366477,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-09T18-13-00Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-09T18:23:00Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-09T18:23:04.135654+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 161,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8366477,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-09T18-23-04Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-09T18:33:04Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-09T18:33:07.440967+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 161,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8366477,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-09T18-33-07Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-09T18:43:07Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-09T18:43:11.632067+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 161,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8366477,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-09T18-43-11Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-09T18:53:11Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-09T18:53:15.003328+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 161,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8366477,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-09T18-53-15Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-09T19:03:15Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-09T19:03:18.233875+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 161,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8366477,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-09T19-03-18Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-09T19:13:18Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-09T19:13:21.493442+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 161,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8366477,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-09T19-13-21Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-09T19:23:21Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-09T19:23:24.678298+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 161,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8366477,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-09T19-23-24Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-09T19:33:24Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-09T19:33:29.298522+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 161,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8366477,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-09T19-33-29Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-09T19:43:29Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-09T19:43:33.369250+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 161,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8366477,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-09T19-43-33Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-09T19:53:33Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-09T19:53:37.513644+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 161,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8366477,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-09T19-53-37Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-09T20:03:37Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-09T20:03:42.181166+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 161,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8366477,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-09T20-03-42Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-09T20:13:42Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-09T20:13:46.545744+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 161,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8366477,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-09T20-13-46Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-09T20:23:46Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-09T20:23:50.879887+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 161,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8366477,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-09T20-23-50Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-09T20:33:51Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-09T20:33:54.964347+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 161,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8366477,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-09T20-33-54Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-09T20:43:55Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-09T20:43:58.603718+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 161,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8366477,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-09T20-43-58Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-09T20:53:58Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-09T20:54:02.156589+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 161,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8366477,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-09T20-54-02Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-09T21:04:02Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-09T21:04:05.960150+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 161,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8366477,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-09T21-04-05Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-09T21:14:06Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-09T21:14:12.251845+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 161,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8366477,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-09T21-14-12Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-09T21:24:12Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-09T21:24:15.911095+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 161,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8366477,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-09T21-24-15Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-09T21:34:16Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-09T21:34:19.813764+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 161,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8366477,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-09T21-34-19Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-09T21:44:20Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-09T21:44:23.052952+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-09T21-44-23Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-09T21:54:23Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-09T21:54:26.569779+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-09T21-54-26Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-09T22:04:26Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-09T22:04:29.885757+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-09T22-04-29Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-09T22:14:30Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-09T22:14:33.131189+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-09T22-14-33Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-09T22:24:33Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-09T22:24:36.555370+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-09T22-24-36Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-09T22:34:36Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-09T22:34:39.600239+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-09T22-34-39Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-09T22:44:39Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-09T22:44:48.396674+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-09T22-44-48Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-09T22:54:48Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-09T22:54:52.156589+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-09T22-54-52Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-09T23:04:52Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-09T23:04:55.942970+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-09T23-04-55Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-09T23:14:56Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-09T23:14:59.484895+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-09T23-14-59Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-09T23:24:59Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-09T23:25:02.645638+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-09T23-25-02Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-09T23:35:02Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-09T23:35:05.828754+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-09T23-35-05Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-09T23:45:06Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-09T23:45:09.176541+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-09T23-45-09Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-09T23:55:09Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-09T23:55:12.522004+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-09T23-55-12Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T00:05:12Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T00:05:15.833906+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T00-05-15Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T00:15:16Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T00:15:19.183089+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T00-15-19Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T00:25:19Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T00:25:22.425969+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T00-25-22Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T00:35:22Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T00:35:25.686151+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T00-35-25Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T00:45:25Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T00:45:28.897805+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T00-45-28Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T00:55:29Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T00:55:32.184514+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T00-55-32Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T01:05:32Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T01:05:35.485894+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T01-05-35Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T01:15:35Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T01:15:39.126216+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T01-15-39Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T01:25:39Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T01:25:43.765039+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T01-25-43Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T01:35:44Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T01:35:46.915629+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T01-35-46Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T01:45:47Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T01:45:50.088818+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T01-45-50Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T01:55:50Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T01:55:53.456139+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T01-55-53Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T02:05:53Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T02:05:56.650236+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T02-05-56Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T02:15:56Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T02:15:59.772469+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T02-15-59Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T02:26:00Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T02:26:02.829527+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T02-26-02Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T02:36:03Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T02:36:05.865741+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T02-36-05Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T02:46:06Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T02:46:08.998082+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T02-46-08Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T02:56:09Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T02:56:12.098361+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T02-56-12Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T03:06:12Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T03:06:15.363475+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T03-06-15Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T03:16:15Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T03:16:18.434484+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T03-16-18Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T03:26:18Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T03:26:22.127429+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T03-26-22Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T03:36:22Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T03:36:25.336331+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T03-36-25Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T03:46:25Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T03:46:28.440828+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T03-46-28Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T03:56:28Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T03:56:31.524091+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T03-56-31Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T04:06:31Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T04:06:34.772215+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T04-06-34Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T04:16:35Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T04:16:37.913785+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T04-16-37Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T04:26:38Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T04:26:41.145731+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T04-26-41Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T04:36:41Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T04:36:44.342282+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T04-36-44Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T04:46:44Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T04:46:47.449746+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T04-46-47Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T04:56:47Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T04:56:50.647672+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T04-56-50Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T05:06:50Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T05:06:53.707149+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T05-06-53Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T05:16:54Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T05:16:56.987943+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T05-16-56Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T05:26:57Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T05:27:00.006203+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T05-27-00Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T05:37:00Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T05:37:03.134483+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T05-37-03Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T05:47:03Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T05:47:06.317824+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T05-47-06Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T05:57:06Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T05:57:09.550337+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T05-57-09Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T06:07:09Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T06:07:13.415990+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T06-07-13Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T06:17:13Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T06:17:16.531746+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T06-17-16Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T06:27:16Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T06:27:19.651470+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T06-27-19Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T06:37:19Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T06:37:22.784631+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T06-37-22Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T06:47:23Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T06:47:26.010836+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T06-47-26Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T06:57:26Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T06:57:29.133926+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T06-57-29Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T07:07:29Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T07:07:32.375921+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T07-07-32Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T07:17:32Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T07:17:35.523125+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T07-17-35Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T07:27:35Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T07:27:39.287428+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T07-27-39Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T07:37:39Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T07:37:42.528344+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T07-37-42Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T07:47:42Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T07:47:45.716275+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T07-47-45Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T07:57:46Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T07:57:49.195359+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T07-57-49Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T08:07:49Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T08:07:52.502789+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T08-07-52Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T08:17:52Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T08:17:56.191347+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T08-17-56Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T08:27:56Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T08:27:59.438433+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T08-27-59Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T08:37:59Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T08:38:02.689473+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T08-38-02Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T08:48:02Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T08:48:05.855105+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T08-48-05Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T08:58:06Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T08:58:09.129474+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T08-58-09Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T09:08:09Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T09:08:12.298609+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T09-08-12Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T09:18:12Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T09:18:15.440781+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T09-18-15Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T09:28:15Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T09:28:18.491686+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T09-28-18Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T09:38:18Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T09:38:21.612081+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T09-38-21Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T09:48:21Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T09:48:24.793233+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T09-48-24Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T09:58:25Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T09:58:28.082847+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T09-58-28Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T10:08:28Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T10:08:32.675284+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T10-08-32Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T10:18:32Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T10:18:36.622692+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T10-18-36Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T10:28:36Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T10:28:40.312349+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T10-28-40Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T10:38:40Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T10:38:44.204840+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T10-38-44Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T10:48:44Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T10:48:48.092467+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T10-48-48Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T10:58:48Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T10:58:51.912878+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T10-58-51Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T11:08:52Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T11:08:55.519782+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T11-08-55Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T11:18:55Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T11:18:59.163169+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T11-18-59Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T11:28:59Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T11:29:02.889280+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T11-29-02Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T11:39:03Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T11:39:06.698360+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T11-39-06Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T11:49:06Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T11:49:10.955458+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T11-49-10Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T11:59:11Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T11:59:15.213890+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T11-59-15Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T12:09:15Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T12:09:19.118296+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T12-09-19Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T12:19:19Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T12:19:22.965143+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T12-19-22Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T12:29:23Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T12:29:26.344150+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T12-29-26Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T12:39:26Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T12:39:30.123169+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T12-39-30Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T12:49:30Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T12:49:33.774911+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T12-49-33Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T12:59:34Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T12:59:37.934128+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T12-59-37Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T13:09:38Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T13:09:42.307539+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T13-09-42Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T13:19:42Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T13:19:46.261297+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T13-19-46Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T13:29:46Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T13:29:50.438420+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T13-29-50Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T13:39:50Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T13:39:54.530762+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T13-39-54Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T13:49:54Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T13:49:58.045992+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T13-49-58Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T13:59:58Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T14:00:01.838404+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T14-00-01Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T14:10:02Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T14:10:05.630092+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T14-10-05Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T14:20:05Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T14:20:09.915970+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T14-20-09Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T14:30:10Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T14:30:13.938556+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T14-30-13Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T14:40:14Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T14:40:17.856910+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T14-40-17Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T14:50:18Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T14:50:21.886015+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T14-50-21Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T15:00:22Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T15:00:25.586981+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T15-00-25Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T15:10:25Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T15:10:29.252093+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T15-10-29Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T15:20:29Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T15:20:33.462945+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T15-20-33Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T15:30:33Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T15:30:37.444196+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T15-30-37Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T15:40:37Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T15:40:41.295617+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T15-40-41Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T15:50:41Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T15:50:45.206743+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T15-50-45Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T16:00:45Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T16:00:48.894876+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T16-00-48Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T16:10:49Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T16:10:52.586493+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T16-10-52Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T16:20:52Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T16:20:56.524885+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T16-20-56Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T16:30:56Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T16:31:00.262304+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T16-31-00Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T16:41:00Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T16:41:03.862675+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T16-41-03Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T16:51:04Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T16:51:07.138984+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T16-51-07Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T17:01:07Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T17:01:10.946188+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T17-01-10Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T17:11:11Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T17:11:16.323084+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T17-11-16Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T17:21:16Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T17:21:20.769333+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T17-21-20Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T17:31:21Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T17:31:25.415273+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T17-31-25Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T17:41:25Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T17:41:29.797533+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T17-41-29Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T17:51:30Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T17:51:34.357488+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T17-51-34Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T18:01:34Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T18:01:37.985684+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T18-01-37Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T18:11:38Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T18:11:42.322019+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T18-11-42Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T18:21:42Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T18:21:46.398939+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T18-21-46Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T18:31:46Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T18:31:50.512674+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T18-31-50Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T18:41:50Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T18:41:54.377589+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T18-41-54Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T18:51:54Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T18:52:00.032656+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T18-52-00Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T19:02:00Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T19:02:04.564592+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T19-02-04Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T19:12:04Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T19:12:08.466991+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T19-12-08Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T19:22:08Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T19:22:12.422917+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T19-22-12Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T19:32:12Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T19:32:16.008675+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T19-32-16Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T19:42:16Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T19:42:21.085942+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T19-42-21Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T19:52:21Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T19:52:24.688815+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T19-52-24Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T20:02:25Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T20:02:28.247500+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T20-02-28Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T20:12:28Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T20:12:32.400317+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T20-12-32Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T20:22:32Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T20:22:36.042020+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T20-22-36Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T20:32:36Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T20:32:39.038616+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T20-32-39Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T20:42:39Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T20:42:42.078656+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T20-42-42Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T20:52:42Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T20:52:45.848204+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T20-52-45Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T21:02:46Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T21:02:49.734805+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T21-02-49Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T21:12:49Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T21:12:53.913070+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T21-12-53Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T21:22:54Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T21:22:56.928546+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T21-22-56Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/
+=== 2026-06-10T21:32:57Z snapshot run ===
+→ GET https://api.affine.io/api/v1/rank/current
+→ rendering accumulated tables
+{
+  "updated_at": "2026-06-10T21:33:00.610972+00:00",
+  "api_base": "https://api.affine.io/api/v1",
+  "top": 10,
+  "queue_limit": 256,
+  "uid": 188,
+  "periods": {
+    "queue": 16,
+    "challenge": 15,
+    "rank": 1,
+    "weights": 5,
+    "scores": 20,
+    "miner": 21,
+    "score": 5,
+    "all_miners_env": 15
+  },
+  "block_number": 8371900,
+  "weights_block_number": 8241561,
+  "scores_block_number": 8241561,
+  "files": [
+    "get-queue.txt",
+    "get-challenge.txt",
+    "get-rank.txt",
+    "get-weights.txt",
+    "get-miner.txt",
+    "get-score.txt",
+    "get-all-miners-env.txt"
+  ]
+}
+→ archived to history/archive/2026-06-10T21-33-00Z/
+Done. Accumulated history in /home/ubuntu/affine-cortex/history/

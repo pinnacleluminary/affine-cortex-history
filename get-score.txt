@@ -1,0 +1,61 @@
+# Score — GET /api/v1/scores/uid/{uid}
+
+## 2026-05-19 00:00:00 → 2026-05-19 23:59:59
+Period from          Period to              uid  miner_hotkey                                      model                                                               model_revision                              first_block  block_number      overall_score    average_score    total_samples  challenge_status    is_valid    invalid_reason    termination_reason
+-------------------  -------------------  -----  ------------------------------------------------  ------------------------------------------------------------------  ----------------------------------------  -------------  --------------  ---------------  ---------------  ---------------  ------------------  ----------  ----------------  --------------------
+2026-05-19 00:00:00  2026-05-19 23:59:59    203  5DJ8rPSP2yc5N63q17WvQqj3uSuGQxnPA1DvCkG8rg2FAnua  Patriciand/affine-5DJ8rPSP2yc5N63q17WvQqj3uSuGQxnPA1DvCkG8rg2FAnua  cc2f17869a32088201741b04f916c426e1905b67        8200362                                1          0.59169                0  champion            True
+environment       score    sample_count  verdict    reason                  common_tasks    score_on_common    not_worse_threshold    dethrone_threshold
+-------------  --------  --------------  ---------  --------------------  --------------  -----------------  ---------------------  --------------------
+LIVEWEB        0.479448             219  not_worse  tie_within_tolerance             219           0.479448               0.458859              0.498223
+MEMORY         0.795862             111  dominant   challenger_better                111           0.795862               0.742526              0.787679
+NAVWORLD       0.531952             221  not_worse  tie_within_tolerance             221           0.531952               0.504299              0.54459
+SWE-INFINITE   0.41                 200  not_worse  tie_within_tolerance             200           0.41                   0.3871                0.425
+TERMINAL       0.741185             221  dominant   challenger_better                221           0.741185               0.650753              0.694034
+
+## 2026-05-19 00:00:00 → 2026-05-20 10:15:25
+Period from          Period to              uid  miner_hotkey                                      model                                                                 model_revision                              first_block  block_number      overall_score    average_score    total_samples  challenge_status    is_valid    invalid_reason    termination_reason
+-------------------  -------------------  -----  ------------------------------------------------  --------------------------------------------------------------------  ----------------------------------------  -------------  --------------  ---------------  ---------------  ---------------  ------------------  ----------  ----------------  --------------------
+2026-05-19 00:00:00  2026-05-20 10:15:25    224  5CiX848ZkvJ5uboumKQneuVNKazgCesbu3JDPT3sShv7izBf  prexpert/affine-158-5CiX848ZkvJ5uboumKQneuVNKazgCesbu3JDPT3sShv7izBf  277d14acf41fea9e9b819ad5e4b3a28af2a94d2c        8208953                                1          0.57546                0  champion            True
+environment       score    sample_count  verdict    reason                  common_tasks    score_on_common    not_worse_threshold    dethrone_threshold
+-------------  --------  --------------  ---------  --------------------  --------------  -----------------  ---------------------  --------------------
+LIVEWEB        0.447956             214  not_worse  tie_within_tolerance             214           0.447956               0.423266              0.461904
+MEMORY         0.797032             111  not_worse  tie_within_tolerance             111           0.797032               0.782484              0.828453
+NAVWORLD       0.516913             221  not_worse  tie_within_tolerance             221           0.516913               0.50513               0.545439
+SWE-INFINITE   0.415842             202  not_worse  tie_within_tolerance             202           0.415842               0.402673              0.440891
+TERMINAL       0.699557             221  dominant   challenger_better                221           0.699557               0.63114               0.67402
+
+## 2026-05-21 09:29:46 → 2026-05-21 17:54:44
+Period from          Period to              uid  miner_hotkey                                      model                                                               model_revision                              first_block  block_number      overall_score    average_score    total_samples  challenge_status    is_valid    invalid_reason    termination_reason
+-------------------  -------------------  -----  ------------------------------------------------  ------------------------------------------------------------------  ----------------------------------------  -------------  --------------  ---------------  ---------------  ---------------  ------------------  ----------  ----------------  --------------------
+2026-05-21 09:29:46  2026-05-21 17:54:44    157  5EjnxQspZBo31bawE78VvKMwbDXA4ShxNLAKMMQgVcrQXfs8  0xbidkslj2/Affine-5EjnxQspZBo31bawE78VvKMwbDXA4ShxNLAKMMQgVcrQXfs8  62fdfcea860833d8707f206625ffbaec54c4d9ca        8216439                                1         0.468849                0  champion            True
+environment       score    sample_count  verdict    reason                  common_tasks    score_on_common    not_worse_threshold    dethrone_threshold
+-------------  --------  --------------  ---------  --------------------  --------------  -----------------  ---------------------  --------------------
+LIVEWEB        0.452466             214  not_worse  tie_within_tolerance             214           0.452466               0.442942              0.481982
+MEMORY         0.216518             100  dominant   challenger_better                100           0.216518               0.171243              0.204738
+NAVWORLD       0.528782             221  not_worse  tie_within_tolerance             221           0.528782               0.510429              0.550846
+SWE-INFINITE   0.412621             206  not_worse  tie_within_tolerance             206           0.412621               0.394854              0.432913
+TERMINAL       0.73386              220  dominant   challenger_better                220           0.73386                0.671377              0.715079
+
+## 2026-05-22 05:42:51
+Period from          Period to              uid  miner_hotkey                                      model                                                             model_revision                              first_block  block_number      overall_score    average_score    total_samples  challenge_status    is_valid    invalid_reason    termination_reason
+-------------------  -------------------  -----  ------------------------------------------------  ----------------------------------------------------------------  ----------------------------------------  -------------  --------------  ---------------  ---------------  ---------------  ------------------  ----------  ----------------  --------------------
+2026-05-22 05:42:51  2026-05-22 05:42:51    244  5HWE4fhtxjiN7dMZgXE2AAT3sZEaPgAuMZpbhAVdidDz92NM  AF-Champ/Affine-5HWE4fhtxjiN7dMZgXE2AAT3sZEaPgAuMZpbhAVdidDz92NM  d82ab471d068c879d6b598f29017247f85139148        8220052                                1         0.448804                0  champion            True
+environment       score    sample_count  verdict    reason                  common_tasks    score_on_common    not_worse_threshold    dethrone_threshold
+-------------  --------  --------------  ---------  --------------------  --------------  -----------------  ---------------------  --------------------
+LIVEWEB        0.493047             329  not_worse  tie_within_tolerance             329           0.493047               0.468325              0.507882
+MEMORY         0.217855             101  not_worse  tie_within_tolerance             101           0.217855               0.201452              0.235563
+NAVWORLD       0.538976             330  not_worse  tie_within_tolerance             330           0.538976               0.521882              0.562532
+SWE-INFINITE   0.403727             322  not_worse  tie_within_tolerance             322           0.403727               0.383478              0.421304
+TERMINAL       0.590415             319  dominant   challenger_better                319           0.590415               0.541474              0.582524
+
+## 2026-05-25 14:32:19 → 2026-05-26 02:23:35
+Period from          Period to              uid  miner_hotkey                                      model                                                              model_revision                              first_block  block_number      overall_score    average_score    total_samples  challenge_status    is_valid    invalid_reason    termination_reason
+-------------------  -------------------  -----  ------------------------------------------------  -----------------------------------------------------------------  ----------------------------------------  -------------  --------------  ---------------  ---------------  ---------------  ------------------  ----------  ----------------  --------------------
+2026-05-25 14:32:19  2026-05-26 02:23:35     78  5E1s3meptPTUjU8o1KgrkznPSafLqfUPL5LAf9sQhof3xNQh  tenny-fri/affine-5E1s3meptPTUjU8o1KgrkznPSafLqfUPL5LAf9sQhof3xNQh  395a48f18f3320da24182cbddd5f6e6101716ebf        8221299                                1         0.445591                0  champion            True
+environment       score    sample_count  verdict    reason                  common_tasks    score_on_common    not_worse_threshold    dethrone_threshold
+-------------  --------  --------------  ---------  --------------------  --------------  -----------------  ---------------------  --------------------
+LIVEWEB        0.506264             323  not_worse  tie_within_tolerance             323           0.506264               0.488379              0.528346
+MEMORY         0.208336             100  not_worse  tie_within_tolerance             100           0.208336               0.206031              0.240236
+NAVWORLD       0.511942             330  not_worse  tie_within_tolerance             330           0.511942               0.508356              0.548731
+SWE-INFINITE   0.408669             323  not_worse  tie_within_tolerance             323           0.408669               0.397461              0.435573
+TERMINAL       0.592746             324  dominant   challenger_better                324           0.592746               0.53191               0.572765

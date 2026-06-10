@@ -1,0 +1,11 @@
+# Secrets — never commit tokens
+github.env
+
+# Runtime / local daemon state
+snapshot_daemon.lock
+snapshot_daemon.pid
+__pycache__/
+*.pyc
+
+# Timestamped copies are large (~3.6GB); canonical history lives in store.json
+archive/
