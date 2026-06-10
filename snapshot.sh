@@ -2,15 +2,28 @@
 # Capture Affine status queries and accumulate dated table history.
 #
 # Usage:
-#   ./history/snapshot.sh
-#   ./history/snapshot.sh --top 20 --uid 203
-#   ./history/snapshot.sh --no-archive
-#   ./history/snapshot.sh --migrate-only   # rebuild tables from store.json only
+#   ./snapshot.sh
+#   ./snapshot.sh --top 20 --uid 203
+#   ./snapshot.sh --no-archive
+#   ./snapshot.sh --migrate-only   # rebuild tables from store.json only
 
 set -euo pipefail
 
 HISTORY_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-ROOT="$(cd "$HISTORY_DIR/.." && pwd)"
+
+# Sibling repo: ../affine-cortex (override with AFFINE_CORTEX_ROOT).
+if [[ -n "${AFFINE_CORTEX_ROOT:-}" ]]; then
+  ROOT="$(cd "$AFFINE_CORTEX_ROOT" && pwd)"
+else
+  ROOT="$(cd "$HISTORY_DIR/../affine-cortex" && pwd)"
+fi
+
+if [[ ! -d "$ROOT" ]]; then
+  echo "affine-cortex not found at $ROOT (set AFFINE_CORTEX_ROOT)" >&2
+  exit 1
+fi
+
+export PYTHONPATH="${ROOT}${PYTHONPATH:+:$PYTHONPATH}"
 
 if [[ -f "$ROOT/.env" ]]; then
   set -a

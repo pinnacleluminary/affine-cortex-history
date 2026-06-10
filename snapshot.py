@@ -30,7 +30,7 @@ def _load_legacy() -> Any:
     if not pyc.is_file():
         raise SystemExit(
             f"No cached snapshot bytecode at {pyc}. "
-            "Restore history/snapshot.py from backup or re-copy the history/ directory."
+            "Restore snapshot.py from backup or re-copy the affine-cortex-history directory."
         )
     spec = importlib.util.spec_from_file_location("_snapshot_impl", pyc)
     if spec is None or spec.loader is None:
@@ -147,7 +147,7 @@ def render_rank(periods: list[dict[str, Any]]) -> str:
         "",
     ]
     if not periods:
-        lines.append("(no data yet — run ./history/snapshot.sh)")
+        lines.append("(no data yet — run ./snapshot.sh)")
         return "\n".join(lines) + "\n"
 
     latest = periods[-1]
@@ -160,7 +160,7 @@ def render_rank(periods: list[dict[str, Any]]) -> str:
         latest_label = legacy.period_label(latest)
         lines.append(
             f"(Using rank payload from {label} — latest capture "
-            f"({latest_label}) lacks window/scores; run ./history/snapshot.sh)"
+            f"({latest_label}) lacks window/scores; run ./snapshot.sh)"
         )
         lines.append("")
 
@@ -169,7 +169,7 @@ def render_rank(periods: list[dict[str, Any]]) -> str:
 
     if not _rank_data_usable(data):
         lines.append(
-            "(Legacy snapshot — missing window/scores. Run ./history/snapshot.sh to refresh.)"
+            "(Legacy snapshot — missing window/scores. Run ./snapshot.sh to refresh.)"
         )
         lines.append("")
         return "\n".join(lines) + "\n"
@@ -286,7 +286,7 @@ def main() -> int:
             src = history / name
             if src.exists():
                 (arch / name).write_text(src.read_text())
-        print(f"→ archived to history/archive/{stamp}/")
+        print(f"→ archived to archive/{stamp}/")
 
     print(f"Done. Accumulated history in {history}/")
     return 0

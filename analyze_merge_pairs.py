@@ -125,7 +125,8 @@ def recommend_method(specs):
 
 
 def main():
-    path = Path(sys.argv[1] if len(sys.argv) > 1 else "get-all-miners-env.txt")
+    default = Path(__file__).resolve().parent / "get-all-miners-env.txt"
+    path = Path(sys.argv[1] if len(sys.argv) > 1 else default)
     lines = [l for l in path.read_text().splitlines() if re.match(r"^\s+\d+\s+\d+", l)]
     miners = [r for l in lines if (r := parse_line(l))]
     print(f"Parsed {len(miners)} / {len(lines)} rows\n")

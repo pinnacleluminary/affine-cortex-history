@@ -2,11 +2,11 @@
 # Run snapshot.sh on a fixed interval in the background.
 #
 # Usage:
-#   ./history/snapshot_daemon.sh start
-#   ./history/snapshot_daemon.sh start --uid 203
-#   ./history/snapshot_daemon.sh stop
-#   ./history/snapshot_daemon.sh status
-#   ./history/snapshot_daemon.sh foreground   # loop in current shell (for debugging)
+#   ./snapshot_daemon.sh start
+#   ./snapshot_daemon.sh start --uid 203
+#   ./snapshot_daemon.sh stop
+#   ./snapshot_daemon.sh status
+#   ./snapshot_daemon.sh foreground   # loop in current shell (for debugging)
 #
 # Env:
 #   SNAPSHOT_INTERVAL_SECONDS   seconds between runs (default: 600 = 10 minutes)
